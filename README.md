@@ -1,8 +1,31 @@
-Windows-Phone-Desenvolvimento
+Windows Phone - Example project
 =============================
 
-Esse é um projeto de exemplo para iniciantes em desenvovimento no windows phone, 
-com a ideia de demonstrar desde como configurar o seu windows (Link abaixo), até um
-primeiro exemplo de projeto.
+This project is an example for beginners in Windows Phone development.
+
+Step by step to install and configure
+==========================
 
 http://msdn.microsoft.com/pt-br/library/windows/apps/dn614128.aspx
+
+Features 
+===========================
+
+- Repository Pattern
+- Domain-driven Design
+- Specification Pattern
+- Web API 2
+- Dependency Injection (Unity)
+
+Requirements
+===========================
+
+Visual Studio 2013
+
+Credits
+===========================
+
+
+License
+============================
+
